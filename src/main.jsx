@@ -16,7 +16,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <PersistGate persistor={persistor}>
       <Provider store={store}>
-        <BrowserRouter basename="/project-Qwerty2024-front">
+        <BrowserRouter basename="/fs-90-react-node-KorolikD">
           <ThemeProvider theme={theme}>
             <GlobalStyle />
             <App />
